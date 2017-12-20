@@ -1,2 +1,5 @@
 # 3DReconstruction
-CSCI 181P
+Final project for CSCI 181P
+3D Reconstruction from RGB-D images
+
+
